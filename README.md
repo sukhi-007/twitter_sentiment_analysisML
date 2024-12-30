@@ -1,5 +1,5 @@
 
-# Sentiment Analysis on Tweets Dataset
+# Twitter Sentiment Analysis 
 
 ## Overview
 This project focuses on performing sentiment analysis on a dataset of tweets obtained from Kaggle. The objective is to classify tweets as having positive or negative sentiment using machine learning techniques. Logistic regression was employed as the classification model, with appropriate preprocessing and evaluation steps.
